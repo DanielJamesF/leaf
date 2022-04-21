@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: o;
+}
+
+body {
+    text-align: center;
+}
+
+#Leaf {
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    border: 5px solid darkgreen;
+    border-bottom-left-radius: 70%;
+    border-top-right-radius: 70%;
+    margin: auto;
+}
+
+p {
+    margin-top: 60px;
+}
